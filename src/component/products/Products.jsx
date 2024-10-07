@@ -47,37 +47,37 @@ const Products = () => {
 
                 <div className='w-full flex justify-center  py-3 h-fit'>
                     <div className='xl:w-[95%] flex justify-center flex-wrap '>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p1} className='w-[92%]  h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40  my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36  my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p2} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p3} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p4} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p5} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p6} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p7} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p8} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p9} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p10} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-40 h-40 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
+                        <div className='xl:w-52 xl:h-52 sm:w-40 sm:h-40 w-36 h-36 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p11} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
                     
