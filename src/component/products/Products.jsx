@@ -80,33 +80,7 @@ const Products = () => {
                         <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
                             <img src={p11} className='w-[92%] h-[92%]  rounded-xl' alt="" />
                         </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p9} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p10} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p11} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p11} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p10} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p11} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p9} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p10} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
-                        <div className='w-52 h-52 my-2 border rounded-2xl flex justify-center hover:scale-105 hover:transition-all transition-all items-center bg-red-700 mx-3 shadow-xl'>
-                            <img src={p11} className='w-[92%] h-[92%]  rounded-xl' alt="" />
-                        </div>
+                    
                        
                     </div>
                 </div>
