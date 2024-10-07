@@ -9,7 +9,7 @@ const About = () => {
     <>
       <div className='w-full h-[50vh] backgroundImage mt-[-80px] mb-10'>
         <div className='w-full h-[100%] flex justify-end items-center flex-col overlayOtherPage '>
-          {/* <h1 className='text-[7vmax] font-bold text-white text-justify textShadow mt-2 mb-0'>About<span className='text-red-900'>Us</span></h1> */}
+          <h1 className='text-[7vmax] font-bold text-white text-justify textShadow mt-2 mb-0'>About<span className='text-red-900'>Us</span></h1>
         </div>
       </div>
       <div className='h-fit py-5 flex justify-between items-center px-5 flex-wrap mb-5'>
@@ -83,19 +83,6 @@ const About = () => {
           </div>
         </div>
       </div>
-      {/* <p className="ml-16 font-bold text-[18px] text-red-900 italic paraTextShadow mt-8 mb-0 capitalize">OUR FACILITY</p>
-      <div className='h-fit pb-5 flex justify-center items-center  flex-wrap mb-5 px-5'>
-        <div className='xl:w-[45%] md:w-[95%]'>
-          <img className='w-full h-[320px] mt-5 mr-5' src={fac1} alt="GLBM" />
-        </div>
-        <div className='xl:w-[45%] md:w-[95%]'>
-          <img className='w-full h-[320px] mt-5 ml-5' src={fac2} alt="GLBM" />
-        </div>
-      </div>
-
-      <div className='w-full h-[50vh] flex justify-center items-center mb-10 px-2'>
-        <img className='xl:w-[80%] md:w-[95%] h-[100%]' src={fac3} alt="" />
-      </div> */}
 
       <div className='h-fit py-5 flex bg-gray-200 justify-between xl:px-10 lg:px-10 md:px-5 sm:px-5 px-5 flex-wrap mb-5'>
         <div className='xl:w-[45%] md:w-[95%] order-1'>
