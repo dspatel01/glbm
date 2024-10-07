@@ -9,8 +9,8 @@ import { MdOutlineLocalPhone } from "react-icons/md";
 const Footer = () => {
   return (
     <>
-      <div className='flex justify-around items-start bg-[black] h-fit py-10 flex-wrap '>
-        <div className='w-[400px] mt-10'>
+      <div className='flex justify-around items-start bg-[black] h-fit py-10 flex-wrap px-4 '>
+        <div className='w-[400px] mt-10 '>
           {/* <img src={logo} className='w-80 border-white' alt="logo" /> */}
           <h1 className='text-[2.5rem] font-bold text-white text-justify textShadow'> <span className='text-red-900'>GLBM</span></h1>
           <p className='text-white mt-3 text-justify'>G.L.B.M came into being in July 2008 with the initial idea seeded by the Proprietor
